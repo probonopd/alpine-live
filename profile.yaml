@@ -1,6 +1,6 @@
 name: alpine-kde
 distro: alpine
-codename: edge
+codename: v3.22
 publisher: Alpine Linux KDE <https://alpinelinux.org>
 label: ALPINE_KDE_TEAISO
 application_id: Alpine Linux Live/Rescue Media

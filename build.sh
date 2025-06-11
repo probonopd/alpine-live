@@ -7,4 +7,4 @@ sudo apt install xorriso grub-pc-bin grub-efi mtools make python3 \
     gcc wget curl unzip xz-utils zstd -y
 make && make install
 cd ../
-mkteaiso --profile=$(pwd) --output=/output/ --debug 2>&1
+mkteaiso --profile=TeaISO/profiles/alpine --output=/output/ --debug 2>&1
